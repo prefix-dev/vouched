@@ -3,3 +3,4 @@ hofer-julian
 -moksha-hub
 -nandinidhanrale
 pavelzw
+-pavelzw-bot test reason
