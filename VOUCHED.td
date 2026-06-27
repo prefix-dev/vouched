@@ -5,5 +5,6 @@ hofer-julian
 -kartikdua1504
 -kayd-06
 -moksha-hub
+-nancy-verma780 spamming
 -nandinidhanrale
 pavelzw
