@@ -1,0 +1,7 @@
+# Lets the vouch "manage by issue" workflow in prefix-dev/setup-pixi push to VOUCHED.td.
+issuer: https://token.actions.githubusercontent.com
+subject: repo:prefix-dev/setup-pixi:ref:refs/heads/main
+claim_pattern:
+  job_workflow_ref: prefix-dev/setup-pixi/\.github/workflows/vouch-manage-by-issue\.yml@refs/heads/main
+permissions:
+  contents: write
