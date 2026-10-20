@@ -1,6 +1,6 @@
 # Lets the vouch "manage by issue" workflow in conda/rattler push to VOUCHED.td.
 issuer: https://token.actions.githubusercontent.com
-subject: repo:conda/rattler:ref:refs/heads/main
+subject: repo:conda@6392739/rattler@432671463:ref:refs/heads/main
 claim_pattern:
   job_workflow_ref: conda/rattler/\.github/workflows/vouch-manage-by-issue\.yml@refs/heads/main
 permissions:
