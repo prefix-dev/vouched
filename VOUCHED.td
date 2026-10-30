@@ -10,4 +10,5 @@ hofer-julian
 -nancy-verma780 spamming
 -nandinidhanrale
 pavelzw
+samrosenf
 ytausch
