@@ -14,6 +14,7 @@ lldash
 -nandinidhanrale
 pavelzw
 samrosenf
+soapy1
 timple
 traversaro
 veckothegecko
