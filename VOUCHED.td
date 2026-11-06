@@ -2,6 +2,7 @@
 agriyakhetarpal
 aochagavia
 -atofinite5
+claudiushaag
 -codeafridi for spamming
 dagmar-dinjens
 ezrabrooks
