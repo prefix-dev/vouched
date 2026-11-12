@@ -7,6 +7,7 @@ claudiushaag
 -codeafridi for spamming
 dagmar-dinjens
 ezrabrooks
+fstanis
 hofer-julian
 jezdez
 jpfeuffer
