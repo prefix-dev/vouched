@@ -7,6 +7,7 @@ aochagavia
 claudiushaag
 -codeafridi for spamming
 dagmar-dinjens
+danyeaw
 ezrabrooks
 fstanis
 hofer-julian
