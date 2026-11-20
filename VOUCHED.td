@@ -6,6 +6,7 @@ aishasartaj1
 aochagavia
 -atofinite5
 b84330808
+chris-thomas-dev
 claudiushaag
 -codeafridi for spamming
 dagmar-dinjens
