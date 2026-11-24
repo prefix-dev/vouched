@@ -8,6 +8,7 @@ aochagavia
 b84330808
 benmoss
 canavandl
+chawyehsu
 chris-thomas-dev
 claudiushaag
 -codeafridi for spamming
