@@ -12,6 +12,7 @@ chris-thomas-dev
 claudiushaag
 -codeafridi for spamming
 dagmar-dinjens
+dani-google
 danyeaw
 donaldlee-lab
 ezrabrooks
